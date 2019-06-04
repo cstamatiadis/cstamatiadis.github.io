@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Constantin Stamatiadis</title>
+    <link>cstamatiadis.github.io/authors/</link>
+    <description>Recent content in Authors on Constantin Stamatiadis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="cstamatiadis.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>cstamatiadis.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>cstamatiadis.github.io/authors/admin/</guid>
+      <description>I&#39;m currently completing my compulsory internship at Volkswagen AG in Germany. I&#39;m part of the automated driving functions team, where deep learning techniques are exploited for autonomous driving. My interest in autonomous systems is what led me to pursue the master in Robotics, Systems and Control at ETH Zürich. Since starting my studies in Switzerland I had the opportunity to deepen my knowledge in many areas, such as Machine Learning/Artificial Intelligence, Computer Vision, State Estimation and Control.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Constantin Stamatiadis</title>
+    <link>cstamatiadis.github.io/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Constantin Stamatiadis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="cstamatiadis.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepGreen</title>
+      <link>cstamatiadis.github.io/project/internal-project2/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>cstamatiadis.github.io/project/internal-project2/</guid>
+      <description>Vision and state estimation for the Billiard Playing Robot of the Automatic Control Lab at ETH.</description>
+    </item>
+    
+    <item>
+      <title>Eye Gaze Estimation</title>
+      <link>cstamatiadis.github.io/project/internal-project/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>cstamatiadis.github.io/project/internal-project/</guid>
+      <description>Applying Deep Learning techniques for Eye Gaze Estimation.</description>
+    </item>
+    
+  </channel>
+</rss>
