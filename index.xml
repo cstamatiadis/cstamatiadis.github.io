@@ -13,20 +13,20 @@
     
     <item>
       <title>DeepGreen</title>
-      <link>https://cstamatiadis.github.io/project/internal-project2/</link>
+      <link>https://cstamatiadis.github.io/project/deepgreen/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cstamatiadis.github.io/project/internal-project2/</guid>
+      <guid>https://cstamatiadis.github.io/project/deepgreen/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;&lt;a href=&#34;https://control.ee.ethz.ch&#34;&gt;IfA&lt;/a&gt; started a project with the aim of developing a fully-autonomous billiard playing robot. The project is in its early stages. Up until now, the following tasks have been addressed: implementation of the AI through Approximate Dynamic Programming, Cue Control, and Vision and State Estimation. In this work, we focus on the latter. First, a ceiling camera was set up. Its video feed was feed into a custom image processing pipeline used to estimate the current state of the game. The pipeline first preprocesses the incoming images (remove distortion, correct perspective), then extracts the ball location through different detectors, to finally merge the measurements through a filter and give a state estimate. Second, the camera system was used to find the dynamic properties of the game, as these are essential to obtain a good model. The friction between the balls and the tablecloth was measured, as wells as the coefficient of restitution for ball collisions with other balls and with the cushions. Finally, a cue camera was set up, with the aim of getting a &#34;player’s eye&#34; view of the game. A depth camera was used in order to get ball distance measurements. The camera was located through an ArUco marker, which was also exploited to find the angular position of the cue.&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;a href=&#34;./files/report.pdf&#34;&gt;Project report&lt;/a&gt;&lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Eye Gaze Estimation</title>
-      <link>https://cstamatiadis.github.io/project/internal-project/</link>
+      <link>https://cstamatiadis.github.io/project/eye-gaze-estimation/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cstamatiadis.github.io/project/internal-project/</guid>
+      <guid>https://cstamatiadis.github.io/project/eye-gaze-estimation/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt;This project was developed during the &lt;a href=&#34;https://ait.ethz.ch/teaching/courses/2018-SS-Machine-Perception/&#34;&gt;Machine Perception&lt;/a&gt; course at &lt;a href=&#34;https://www.ethz.ch/en.html&#34;&gt;ETH Zürich&lt;/a&gt;. The goal was to develop a CNN architecture to perform the task of estimating eye gaze direction from single-eye images obtained by preprocessing samples from the MPIIGaze dataset. Starting from a custom architecture we tried out other famous architectures such as VGG16 and DenseNet, ending up with a custom architecture with skip connections inspired by DenseNet.&lt;br&gt;&lt;/br&gt; &lt;br&gt;&lt;a href=&#34;./files/mp-report.pdf&#34;&gt;Project report&lt;/a&gt;&lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
