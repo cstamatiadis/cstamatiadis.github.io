@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Constantin Stamatiadis</title>
-    <link>cstamatiadis.github.io/tags/</link>
+    <link>https://cstamatiadis.github.io/tags/</link>
     <description>Recent content in Tags on Constantin Stamatiadis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="cstamatiadis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cstamatiadis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computer Vision</title>
-      <link>cstamatiadis.github.io/tags/Computer-Vision/</link>
+      <link>https://cstamatiadis.github.io/tags/computer-vision/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>cstamatiadis.github.io/tags/Computer-Vision/</guid>
+      <guid>https://cstamatiadis.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>cstamatiadis.github.io/tags/Deep-Learning/</link>
+      <link>https://cstamatiadis.github.io/tags/deep-learning/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>cstamatiadis.github.io/tags/Deep-Learning/</guid>
+      <guid>https://cstamatiadis.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on Constantin Stamatiadis</title>
-    <link>cstamatiadis.github.io/tags/Deep-Learning/</link>
+    <link>https://cstamatiadis.github.io/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on Constantin Stamatiadis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="cstamatiadis.github.io/tags/Deep-Learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cstamatiadis.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eye Gaze Estimation</title>
-      <link>cstamatiadis.github.io/project/internal-project/</link>
+      <link>https://cstamatiadis.github.io/project/internal-project/</link>
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>cstamatiadis.github.io/project/internal-project/</guid>
+      <guid>https://cstamatiadis.github.io/project/internal-project/</guid>
       <description>Applying Deep Learning techniques for Eye Gaze Estimation.</description>
     </item>
     
