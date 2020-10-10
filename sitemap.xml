@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://cstamatiadis.github.io/tags/computer-vision/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cstamatiadis.github.io/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -22,19 +20,16 @@
   <url>
     <loc>https://cstamatiadis.github.io/project/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cstamatiadis.github.io/tags/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cstamatiadis.github.io/tags/deep-learning/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,12 +43,10 @@
   
   <url>
     <loc>https://cstamatiadis.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cstamatiadis.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -62,7 +55,6 @@
   
   <url>
     <loc>https://cstamatiadis.github.io/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
